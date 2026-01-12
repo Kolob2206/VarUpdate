@@ -3,7 +3,7 @@ variable "variable1" {
 }
 
 variable "var2" {
-    value "val4" {
+    value "val5" {
         environment = ["development"]
     }
 }
